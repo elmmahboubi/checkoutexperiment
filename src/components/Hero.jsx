@@ -19,10 +19,10 @@ const Hero = () => {
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 text-center md:text-left mb-10 md:mb-0">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight">
-            Where Little Joys Begin
+            The smart way to buy premium tech, cameras, and bikes — for less.
             </h1>
             <p className="mt-4 text-lg md:text-xl text-blue-100 max-w-lg mx-auto md:mx-0">
-            Thoughtfully chosen essentials for a calm, cozy start.
+            We take the risk out of used gear with expert inspection and reliable service on every order.
             </p>
             <div className="mt-8 flex flex-col sm:flex-row justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4">
               <a 
@@ -44,7 +44,7 @@ const Hero = () => {
             <div className="relative mx-auto w-full max-w-md">
               <div className="absolute inset-0 bg-gradient-to-r from-[#003494] to-[#0046be] rounded-2xl transform rotate-3 scale-105 opacity-50 blur-xl"></div>
               <img 
-                src="/g7x.jpg" 
+                src="/g7x.webp" 
                 alt="Canon G7X Camera" 
                 className="relative z-10 rounded-2xl shadow-2xl w-full h-[400px] object-cover object-center"
               />
