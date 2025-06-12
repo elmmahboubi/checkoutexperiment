@@ -107,7 +107,7 @@ const ProductPage = () => {
     },
     {
       question: "Is there free shipping?",
-      answer: "Yes, we offer free standard shipping on orders over $50. Express options are also available at checkout."
+      answer: "Yes, we offer free standard shipping on all orders currently. Express options are also available at checkout."
     },
     {
       question: "Are your second-hand products tested?",

@@ -62,7 +62,7 @@ const HomePage = () => {
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-gray-900">Featured Products</h2>
               <p className="mt-2 text-gray-600 max-w-2xl mx-auto">
-                Discover our handpicked selection of premium cameras that stand out for their exceptional quality and performance.
+                Discover our handpicked selection of premium tech gadgets that stand out for their exceptional quality and performance.
               </p>
             </div>
             

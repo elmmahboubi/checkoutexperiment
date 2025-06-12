@@ -85,7 +85,7 @@ const ShippingPolicyPage: React.FC = () => {
               </p>
               <ul className="list-disc pl-6 mb-6">
                 <li>Full insurance coverage</li>
-                <li>Signature confirmation for orders over $500</li>
+                <li>Signature confirmation for orders over 0</li>
                 <li>Weather-resistant packaging</li>
                 <li>Protective materials for fragile items</li>
               </ul>

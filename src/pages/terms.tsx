@@ -37,7 +37,7 @@ const TermsPage: React.FC = () => {
               </p>
               <ul className="list-disc pl-6 mt-4 mb-6">
                 <li>Standard shipping takes 3-5 business days</li>
-                <li>Free shipping on orders over $50</li>
+                <li>Free shipping on all orders currently</li>
                 <li>Orders are processed within 1 business day</li>
                 <li>Tracking information is provided via email</li>
               </ul>

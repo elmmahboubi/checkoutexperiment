@@ -55,7 +55,7 @@ const ReturnPolicyPage: React.FC = () => {
               </p>
               <ul className="list-disc pl-6 mt-4">
                 <li>Standard shipping (3-5 business days)</li>
-                <li>Free shipping on orders over $50</li>
+                <li>Free shipping on all orders currently</li>
                 <li>Tracking information provided via email</li>
               </ul>
               
